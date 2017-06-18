@@ -31,8 +31,9 @@ Desired output:
 	O        O
 	OOOOOOOOOO
 	
-Example of post payload:
+Example of post payload against: http://localhost:8080/solve
 
+```
 { 
 "startX": 1,
 "startY": 2,
@@ -45,3 +46,4 @@ Example of post payload:
 	     ["O"," "," "," "," "," "," ","O","O","O"],
 	     ["O","O","O","O","O","O","O","O","O","O"]]
 }
+```
