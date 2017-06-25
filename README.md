@@ -31,7 +31,7 @@ Desired output:
 	O        O
 	OOOOOOOOOO
 	
-Example of post payload against: http://localhost:8080/solve
+Example of post payload against: ``` http://localhost:8080/solve ```
 
 ```
 { 
@@ -47,3 +47,11 @@ Example of post payload against: http://localhost:8080/solve
 	     ["O","O","O","O","O","O","O","O","O","O"]]
 }
 ```
+
+How to run the app: 
+
+```
+gradle bootRun
+```
+
+
